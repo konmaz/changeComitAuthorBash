@@ -22,7 +22,7 @@ do
   fi
   git clone git@github.com:$line
   if ! test -f $line+'zip'; then
-  	printf "%s backup dont exists.Creating....\n" : $line
-fi
+    printf "%s backup dont exists.Creating....\n" : $line
+  fi
 done < "$input"
 
