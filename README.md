@@ -25,9 +25,8 @@ NEW EMAIL
 In the ``repos.txt`` put the desired repositories to change the author name and email:
 
 ```bash
-OLD EMAIL
-NEW NAME
-NEW EMAIL
+konmaz/changeComitAuthorBash
+...
 ```
 Runing
 ```bash
