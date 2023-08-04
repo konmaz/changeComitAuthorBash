@@ -2,11 +2,12 @@
 
 This Bash script helps you change your old commits author name and email in many repositories. 
 This script uses the powerful command ``git push -f``.
-You should be cautious when using the script. YOU HAVE BEEB WARNED.\
-With great power comes great responsibility.
+You should be cautious when using the script. YOU HAVE BEEN WARNED.\
+
+**With great power comes great responsibility.**
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+To execute.
 
 ```bash
 $ git clone https://github.com/konmaz/changeComitAuthorBash.git
